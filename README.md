@@ -1,32 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TodoList Project</title>
-</head>
-<body>
+
     <header>
         <h1>TodoList Project React JS and Chakra </h1>
     </header>
 
-    <main>
-        <section>
-            <h2>Features</h2>
-            <ul>
-                <li>Add new tasks</li>
-                <li>Delete tasks</li>
-                <li>Mark tasks as completed</li>
-                <li>Filter tasks by title</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Screenshot</h2>
-            <img src="captures/Capture.PNG" alt="TodoList Screenshot">
-        </section>
-        <section>
-            <h2>Folder Structure</h2>
-            <pre>
+  
+    <section>
+        <h2>Features</h2>
+        <ul>
+            <li>Add new tasks</li>
+            <li>Delete tasks</li>
+            <li>Mark tasks as completed</li>
+            <li>Filter tasks by title</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Screenshot</h2>
+        <img src="captures/Capture.PNG" alt="TodoList Screenshot">
+    </section>
+    <section>
+        <h2>Folder Structure</h2>
+        <pre>
 ├── public
 │   └── index.html
 ├── src
@@ -45,6 +38,4 @@
         <footer>
             <p>&copy; 2024 TELMOUDY Abdelhakim</p>
         </footer>
-    </main>
-</body>
-</html>
+    
