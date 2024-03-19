@@ -11,7 +11,7 @@ This is a simple TodoList project built with React.js and Chakra UI.
 
 ## Screenshot
 
-![TodoList Screenshot](path/to/screenshot.png)
+![TodoList Screenshot](captures/Capture.PNG)
 
 ## Folder Structure
 
