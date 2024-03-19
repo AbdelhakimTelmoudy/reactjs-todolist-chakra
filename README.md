@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TodoList Project</title>
+</head>
+<body>
     <header>
         <h1>TodoList Project React JS and Chakra </h1>
     </header>
@@ -33,8 +40,11 @@
             </pre>
         </section>
 
+        
+
         <footer>
-            <p>&copy; 2024 TELMOUDY Abdelhakim </p>
+            <p>&copy; 2024 TELMOUDY Abdelhakim</p>
         </footer>
     </main>
-<
+</body>
+</html>
