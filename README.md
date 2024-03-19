@@ -16,15 +16,16 @@ This is a simple TodoList project built with React.js and Chakra UI.
 ## Folder Structure
 
 ├── public
-│ └── index.html
+│   └── index.html
 ├── src
-│ ├── components
-│ │ ├── TodoList.js
-│ │ └── ...other components
-│ ├── TodoListContext.js
-│ └── App.js
+│   ├── components
+│   │   ├── TodoList.js
+│   │   └── ...other components
+│   ├── TodoListContext.js
+│   └── App.js
 ├── package.json
 └── README.md
+
 
 ## Dependencies
 
